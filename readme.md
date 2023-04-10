@@ -1,3 +1,3 @@
-# Algoritmos
+# Algorithm Challenge
 
-Algorithm challenge, for the full stack challenge you can access from this [link](https://github.com/carlosarraes/unified)
+For the full-stack coding challenge, you can access from this [link](https://github.com/carlosarraes/unified).
